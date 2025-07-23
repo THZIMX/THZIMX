@@ -1,4 +1,4 @@
-## Olá, Sou o thzimx, faço bot discord no mobile
+## Olá, Sou o Mateus/THZIMX e programo usando o celular.
 
 Estou constantemente aprimorando minhas habilidades e conhecimentos. A seguir, apresento algumas estatísticas sobre meus projetos e contribuições.
 
