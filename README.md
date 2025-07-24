@@ -25,6 +25,12 @@ Estou constantemente aprimorando minhas habilidades e conhecimentos. Abaixo estÃ
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
 ---
+### Aplicativos que uso.
+![Termux](https://img.shields.io/badge/Termux-339933?style=flat&logo=termux.js&logoColor=white)
+
+
+
+---
 
 ### ðŸ“± Redes Sociais
 
