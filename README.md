@@ -27,7 +27,7 @@ Estou constantemente aprimorando minhas habilidades e conhecimentos. Abaixo est√
 ---
 ### Aplicativos que uso.
 ![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=linux&logoColor=white)
-![VS Code Online](https://img.shields.io/badge/VSCode-blue?style=flat&logo=visualstudiocode&logoColor=white)
+![VS Code Online](https://img.shields.io/badge/VSCode-Web-blue?style=flat&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)
 
 
