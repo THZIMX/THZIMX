@@ -6,9 +6,8 @@ Estou constantemente aprimorando minhas habilidades e conhecimentos. Abaixo estÃ
 
 <div align="center">
   <a href="https://github.com/THZIMX">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400
-&theme=transparentusername=THZIMX&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THZIMX&layout=compact&langs_count=7&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=THZIMX&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THZIMX&layout=compact&langs_count=7&theme=transparent"/>
   </a>
 </div>
 
@@ -26,12 +25,12 @@ Estou constantemente aprimorando minhas habilidades e conhecimentos. Abaixo estÃ
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
 ---
-### Aplicativos que uso.
+
+### ðŸ“± Aplicativos que Uso
+
 ![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=linux&logoColor=white)
 ![VS Code Online](https://img.shields.io/badge/VSCode-Web-blue?style=flat&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)
-
-
 
 ---
 
