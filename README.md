@@ -45,4 +45,4 @@ Estou constantemente aprimorando minhas habilidades e conhecimentos. Abaixo est�
 
 - 📱 Programo direto do celular com Termux e editores online.
 - 🔧 Faço bots em JavaScript usando `discord.js`.
-- 🎯 Estou sempre buscando melhorar, mesmo com ferramentas limitadas!
+- 🎯 Estou sempre buscando melhorar, mesmo com ferramentas limitadas
