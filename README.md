@@ -37,7 +37,7 @@ Estou constantemente aprimorando minhas habilidades e conhecimentos. Abaixo est�
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/theeussx_?igsh=ejBrdjdxc292cDkw)
 [![Discord](https://img.shields.io/badge/Servidor%20no%20Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/rwWhZ4GjWP)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1E90FF?style=flat&logo=Google-chrome&logoColor=white)](https://seuportfolio.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1E90FF?style=flat&logo=Google-chrome&logoColor=white)](https://thzimx.vercel.app/)
 
 
 ---
