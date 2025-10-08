@@ -1,9 +1,8 @@
 ## Olá, Sou o Mateus/THZIMX 👋
 
-📱 **Programo usando o celular** | 🚀 **Desenvolvedor "Full-Stack"** | 💡 **Criando soluções com ferramentas limitadas**
+📱 **Programo usando o celular** | 🚀 **Desenvolvedor "Full-Stack"** 
 
-Estou constantemente aprimorando minhas habilidades e conhecimentos, demonstrando que **limitações não são barreiras, mas oportunidades para criatividade**.
-
+Estou constantemente aprimorando minhas habilidades e conhecimentos.
 ---
 
 ### 🏆 Estatísticas GitHub
@@ -58,6 +57,5 @@ Estou constantemente aprimorando minhas habilidades e conhecimentos, demonstrand
 - 🤖 **Especialista em Bots** desenvolvidos em JavaScript
 - 🌐 **Desenvolvedor Web "Full-Stack"** 
 - 🔧 **Stack principal:** React, Vite, Tailwind CSS, Node.js, MySQL
-- ⚡ **Curiosidade:** Provo que criatividade > recursos limitados
 
-> *"Não é sobre as ferramentas que você tem, mas sobre como você as usa"* 🚀
+> *"Não é sobre as ferramentas que você tem, mas sobre como você as usa"* 
