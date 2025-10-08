@@ -1,6 +1,10 @@
-## Olá, Sou o Mateus/THZIMX e programo usando o celular.
+## Olá, Sou o Mateus/THZIMX 👋
 
-Estou constantemente aprimorando minhas habilidades e conhecimentos. Abaixo estão algumas estatísticas sobre meus projetos e contribuições.
+📱 **Programo usando o celular** | 🚀 **Desenvolvedor Full-Stack** | 💡 **Criando soluções com ferramentas limitadas**
+
+Estou constantemente aprimorando minhas habilidades e conhecimentos, demonstrando que **limitações não são barreiras, mas oportunidades para criatividade**.
+
+---
 
 ### 🏆 Estatísticas GitHub
 
@@ -13,37 +17,47 @@ Estou constantemente aprimorando minhas habilidades e conhecimentos. Abaixo est�
 
 ---
 
-### 💻 Tecnologias que Uso
+### 🛠️ Stack Tecnológica
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+**Frontend & UI:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-1572B6?style=flat&logo=React3&logoColor=white)
+
+**Backend & Database:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+**Linguagens:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 ---
 
-### 📱 Aplicativos que Uso
+### 📱 Meu Setup Mobile
 
 ![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=linux&logoColor=white)
-![VS Code Online](https://img.shields.io/badge/VSCode-Web-blue?style=flat&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)
+![VS Code Online](https://img.shields.io/badge/VSCode_Web-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![GitHub Mobile](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-### 📱 Redes Sociais
+### 🌐 Conecte-se Comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/theeussx_?igsh=ejBrdjdxc292cDkw)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1E90FF?style=flat&logo=Google-chrome&logoColor=white)](https://thzimx.vercel.app/)
-
+[![Portfólio](https://img.shields.io/badge/Portfólio-1E90FF?style=flat&logo=Google-chrome&logoColor=white)](https://thzimx.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/THZIMX)
 
 ---
 
-### 🚀 Sobre Mim
+### 💡 Sobre Mim
 
-- 📱 Programo direto do celular com Termux e editores online.
-- 🔧 Faço bots em JavaScript.
-- 🌐 Desenvovedor Web.
-- 🎯 Estou sempre buscando melhorar, mesmo com ferramentas limitadas.
+- 📱 **Programo 100% pelo celular** usando Termux e editores online
+- 🤖 **Especialista em Bots** desenvolvidos em JavaScript
+- 🌐 **Desenvolvedor Web "Full-Stack"** 
+- 🔧 **Stack principal:** React, Vite, Tailwind CSS, Node.js, MySQL
+- ⚡ **Curiosidade:** Provo que criatividade > recursos limitados
+
+> *"Não é sobre as ferramentas que você tem, mas sobre como você as usa"* 🚀
