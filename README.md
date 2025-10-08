@@ -1,6 +1,6 @@
 ## Olá, Sou o Mateus/THZIMX 👋
 
-📱 **Programo usando o celular** | 🚀 **Desenvolvedor Full-Stack** | 💡 **Criando soluções com ferramentas limitadas**
+📱 **Programo usando o celular** | 🚀 **Desenvolvedor "Full-Stack"** | 💡 **Criando soluções com ferramentas limitadas**
 
 Estou constantemente aprimorando minhas habilidades e conhecimentos, demonstrando que **limitações não são barreiras, mas oportunidades para criatividade**.
 
