@@ -45,7 +45,7 @@ Estou constantemente aprimorando minhas habilidades e conhecimentos.
 
 ### 🌐 Conecte-se Comigo
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/theeussx_?igsh=ejBrdjdxc292cDkw)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/theeussx.dev_?igsh=ejBrdjdxc292cDkw)
 [![Portfólio](https://img.shields.io/badge/Portfólio-1E90FF?style=flat&logo=Google-chrome&logoColor=white)](https://thzimx.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/THZIMX)
 
