@@ -54,7 +54,7 @@ Estou constantemente aprimorando minhas habilidades e conhecimentos.
 ### 💡 Sobre Mim
 
 - 📱 **Programo 100% pelo celular** usando Termux e editores online
-- 🤖 **Projeto mais que mais me dediquei** [Wardizitto](https://github.com/THZIMX/Wardizitto)
+- 🤖 **Projeto que mais me dediquei** [Wardizitto](https://github.com/THZIMX/Wardizitto)
 - 🤖 **Especialista em Bots** desenvolvidos em JavaScript
 - 🌐 **Desenvolvedor Web "Full-Stack"** 
 - 🔧 **Stack principal:** React, Vite, Tailwind CSS, Node.js, MySQL
