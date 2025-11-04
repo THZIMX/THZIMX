@@ -47,6 +47,7 @@ Estou constantemente aprimorando minhas habilidades e conhecimentos.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/theeussx.dev_?igsh=ejBrdjdxc292cDkw)
 [![Portfólio](https://img.shields.io/badge/Portfólio-1E90FF?style=flat&logo=Google-chrome&logoColor=white)](https://thzimx.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-henrique-b19aa2305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/THZIMX)
 
 ---
