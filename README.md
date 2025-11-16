@@ -1,6 +1,8 @@
 ## Olá, Sou o Mateus/Theeussx 👋
 
-📱 **Programo usando o celular** | 🚀 **Desenvolvedor "Full-Stack"** 
+**Atualmnete estou estudando engenharia de software** 
+
+📱 **Programo usando o celular** | **Desenvolvedor "Full-Stack"** 
 
 Estou constantemente aprimorando minhas habilidades e conhecimentos.
 ---
