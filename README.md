@@ -52,7 +52,7 @@
 
 - 📱 Programador mobile raiz (Termux + web editors)
 - 🤖 Criador de bots e automações em JavaScript
-- 🚀 Projeto principal: [Wardizitto](https://github.com/THZIMX/Wardizitto)
+- 🚀 Projeto principal: [Wardizitto](https://github.com/theeussx/Wardizitto)
 - 🌐 Desenvolvedor Full-Stack Web
 - 🔧 Stack base: React • Vite • Tailwind • Node • MySQL
 
