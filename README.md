@@ -8,7 +8,7 @@
 
 ## 🏆 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=theeussxX&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=theeussx&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
 ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=theeussx&theme=github_dark&hide_border=true&bg_color=00000000)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=theeussx&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
 
